@@ -6,8 +6,8 @@
 
 /////////////////////
 
-// let name = "alireza"
-// name = "bahar"
+// let name = "alireza";
+// name = "bahar";
 
 // console.log(name);
 
@@ -21,7 +21,7 @@
 //////////////////////////////////
 
 // const FirstName = "alireza";
-// let LastName = "dalvand";
+// let LastName = "dalvand ";
 
 // const fullName = LastName + FirstName;
 
@@ -37,14 +37,13 @@
 /////////////////////////////////////////
 
 // let number = 125;
-// const num = 12;
-// number++;
+// number =+1;
 // console.log(number);
 
 // ////////////////////////////////////////
 
 // let num = 1;
-// let name = "1";
+// let name = " alireza ";
 
 // const all = num + name;
 
@@ -54,7 +53,8 @@
 
 // choose your favorite food
 
-// const food = ["pasta" , "pizza" , "burger" , "fish" , "snack" , "kabab"]
+const food = ["pasta" , "pizza" , "burger" , "fish" , "snack" , "kabab"]
+
 
 /////////////////////////////////////////////////////////
 
@@ -68,3 +68,8 @@
 // console.log(myCar);
 
 /////////////////////////////////////////////////
+
+// let num = 5;
+// let name = num.toString();
+// console.log(name);
+// console.log(typeof(name));
